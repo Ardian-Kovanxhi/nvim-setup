@@ -2,7 +2,8 @@
 ### requires Packer (probably will soon switch to lazy depending how hard it is)
 ### use this command: 
 ```
-git clone --depth 1 https://github.com/wbthomason/packer.nvim\ ~/.local/share/nvim/site/pack/packer/start/packer.nvim
+git clone --depth 1 https://github.com/wbthomason/packer.nvim\
+~/.local/share/nvim/site/pack/packer/start/packer.nvim
 ```
 ### use :so on most of the files especially THE packer file
 ### make sure to run :PackerSync
